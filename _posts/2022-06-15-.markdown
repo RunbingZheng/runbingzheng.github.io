@@ -1,0 +1,18 @@
+
+I am a PhD candidate at North Carolina State University in statistics, advised by [Prof. Minh Tang][Prof. Minh Tang]. Previously I graduated from Fudan university in 2018 with my Bachelor Degrees in mathematics.
+
+[Prof. Minh Tang]: https://minh-tang.github.io/
+
+---
+title:  "Research Interests"
+---
+- Statistical inference on graphs
+
+- Spectral methods
+
+- Distributed data
+
+---
+title:  "Education"
+---
+
