@@ -1,7 +1,7 @@
 - Limit results for distributed estimation of invariant subspaces in multiple networks inference and PCA
-
+<br>
 *Runbing Zheng, Minh Tang*
-
+<br>
 [limit preprint][arXiv preprint], 2022
 
 [limit preprint]:https://arxiv.org/abs/2206.04306
