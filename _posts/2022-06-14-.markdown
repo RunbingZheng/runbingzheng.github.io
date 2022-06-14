@@ -1,4 +1,2 @@
-
 I am a PhD candidate at North Carolina State University in statistics, advised by [Prof. Minh Tang][Prof. Minh Tang]. Previously I graduated from Fudan University in 2018 with my Bachelor Degree in mathematics.
-
 [Prof. Minh Tang]: https://minh-tang.github.io/
