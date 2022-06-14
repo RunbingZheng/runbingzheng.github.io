@@ -1,28 +1,18 @@
+
+I am a PhD candidate at North Carolina State University in statistics, advised by [Prof. Minh Tang][Prof. Minh Tang]. Previously I graduated from Fudan university in 2018 with my Bachelor Degrees in mathematics.
+
+[Prof. Minh Tang]: https://minh-tang.github.io/
+
 ---
-layout: post
-title:  "Integrating razorpay into your webapp"
-date:   2019-03-23 21:03:36 +0530
-categories: Javascript NodeJS
+title:  "Research Interests"
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+- Statistical inference on graphs
 
-```javascript
-const Razorpay = require('razorpay');
+- Spectral methods
 
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
+- Distributed data
 
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
-```
+---
+title:  "Education"
+---
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
