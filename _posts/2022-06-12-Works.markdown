@@ -1,3 +1,5 @@
-- Statistical inference on graphs
-- Spectral methods
-- Distributed data
+- Limit results for distributed estimation of invariant subspaces in multiple networks inference and PCA
+*Runbing Zheng, Minh Tang*
+[limit preprint][limit preprint]], 2022
+
+[limit preprint]:https://arxiv.org/abs/2206.04306
