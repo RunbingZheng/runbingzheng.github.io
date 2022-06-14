@@ -3,7 +3,6 @@
 *Runbing Zheng, Minh Tang*
 <br>
 [arXiv preprint][limit preprint], 2022.
-\vspace{.3cm}
 - Vertex nomination between graphs via spectral embedding and quadratic programming
 <br>
 *Runbing Zheng, Vince Lyzinski, Carey E. Priebe, Minh Tang*
