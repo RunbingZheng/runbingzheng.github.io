@@ -1,0 +1,7 @@
+- Chain-linked multiple matrix integration via embedding alignment
+<br>
+*Runbing Zheng, Minh Tang*
+<br>
+[arXiv preprint][chain preprint].
+
+[chain preprint]:https://arxiv.org/abs/2412.02791

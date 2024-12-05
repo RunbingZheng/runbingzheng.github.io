@@ -2,6 +2,6 @@
 <br>
 *Runbing Zheng, Minh Tang*
 <br>
-[arXiv preprint][limit preprint], 2023.
+[arXiv preprint][limit preprint].
 
 [limit preprint]:https://arxiv.org/abs/2206.04306
