@@ -1,3 +1,3 @@
 - Statistical inference on graphs
-- Spectral methods
+- Spectral methods and high-dimensional data analysis
 - Distributed data
