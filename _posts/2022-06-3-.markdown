@@ -1,0 +1,7 @@
+- Dynamic networks clustering via mirror distance
+<br>
+*Runbing Zheng, Avanti Athreya, Marta Zlatic, Michael Clayton, Carey E. Priebe*
+<br>
+[arXiv:2412.19012][cluster preprint]
+
+[cluster preprint]:https://arxiv.org/abs/2412.19012
