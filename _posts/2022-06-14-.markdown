@@ -1,4 +1,4 @@
-I am a Rufus Isaacs Postdoctoral Fellow in the Department of Applied Mathematics and Statistics  of Johns Hopkins University advised by [Prof. Carey E. Priebe][Prof. Carey E. Priebe]. I obtained my PhD degree from Department of Statistics at North Carolina State University, advised by [Prof. Minh Tang][Prof. Minh Tang]. Previously I graduated from Fudan University with my Bachelor Degree in mathematics.
+I am a Rufus Isaacs Postdoctoral Fellow in the Department of Applied Mathematics and Statistics  at Johns Hopkins University, advised by [Prof. Carey E. Priebe][Prof. Carey E. Priebe]. I obtained my PhD degree from the Department of Statistics at North Carolina State University, where I was fortunate to be advised by [Prof. Minh Tang][Prof. Minh Tang]. Previously I graduated from Fudan University with my Bachelor Degree in mathematics.
 
 [Prof. Minh Tang]: https://minh-tang.github.io/
 [Prof. Carey E. Priebe]: https://www.ams.jhu.edu/~priebe/
