@@ -1,0 +1,7 @@
+- Detection and estimation of vertex-wise latent position shifts across networks
+<br>
+*Runbing Zheng*
+<br>
+[arXiv:2502.01947][shift preprint]
+
+[shift preprint]:https://arxiv.org/abs/2502.01947
