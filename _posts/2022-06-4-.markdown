@@ -3,5 +3,7 @@
 *Runbing Zheng, Minh Tang*
 <br>
 [arXiv:2412.02791][chain preprint]
+<br>
+Minor revision submitted to Journal of the American Statistical Association
 
 [chain preprint]:https://arxiv.org/abs/2412.02791
