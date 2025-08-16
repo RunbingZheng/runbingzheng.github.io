@@ -2,7 +2,7 @@
 <br>
 *Runbing Zheng, Minh Tang*
 <br>
-Minor revision submitted to Journal of the American Statistical Association
+<span style="color: #0969da;">accepted to Journal of the American Statistical Association, 2025+</span>
 <br>
 [arXiv:2412.02791][chain preprint]
 
