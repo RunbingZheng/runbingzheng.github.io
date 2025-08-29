@@ -2,9 +2,11 @@
 <br>
 *Runbing Zheng, Minh Tang*
 <br>
-<span style="color: #0969da;">accepted to Journal of the American Statistical Association, 2025+</span>
+%<span style="color: #0969da;">accepted to Journal of the American Statistical Association, 2025+</span>
+[Journal of the American Statistical Association, 2025][chain pdf]
 <br>
 [arXiv:2412.02791][chain preprint]
 
 
 [chain preprint]:https://arxiv.org/abs/2412.02791
+[vertex pdf]:https://doi.org/10.1080/01621459.2025.2550677
