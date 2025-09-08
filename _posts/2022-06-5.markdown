@@ -1,0 +1,7 @@
+- A functional tensor model for dynamic multilayer networks with common invariant subspaces and the RKHS estimation
+<br>
+*Runshi Tang\*, Runbing Zheng\*, Anru R. Zhang, Carey E. Priebe (\*=equal contribution)*
+<br>
+[arXiv:2509.05221][tensor preprint]
+
+[tensor preprint]:https://arxiv.org/abs/2509.05221
