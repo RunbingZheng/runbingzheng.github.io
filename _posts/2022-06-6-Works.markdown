@@ -1,7 +1,7 @@
-- Detection and estimation of vertex-wise latent position shifts across networks
+- A functional tensor model for dynamic multilayer networks with common invariant subspaces and the RKHS estimation
 <br>
-*Runbing Zheng*
+*Runshi Tang\*, Runbing Zheng\*, Anru R. Zhang, Carey E. Priebe* (\*=equal contribution)
 <br>
-[arXiv:2502.01947][shift preprint]
+[arXiv:2509.05221][tensor preprint]
 
-[shift preprint]:https://arxiv.org/abs/2502.01947
+[tensor preprint]:https://arxiv.org/abs/2509.05221
