@@ -1,3 +1,3 @@
 - Statistical inference on graphs
-- Spectral methods and high-dimensional data analysis
-- Distributed learning and data integration
+- High-dimensional data analysis
+- Data integration and distributed learning
