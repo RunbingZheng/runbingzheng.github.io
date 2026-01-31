@@ -2,7 +2,7 @@
 <br>
 *Runbing Zheng, Minh Tang*
 <br>
-[Journal of the American Statistical Association, 2025][chain pdf]
+[Journal of the American Statistical Association][chain pdf]
 <br>
 [arXiv:2412.02791][chain preprint]
 

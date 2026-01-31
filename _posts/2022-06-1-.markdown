@@ -2,7 +2,7 @@
 <br>
 *Runbing Zheng, Vince Lyzinski, Carey E. Priebe, Minh Tang*
 <br>
-[Journal of Computation and Graphical Statistics, 2022][vertex pdf]
+[Journal of Computation and Graphical Statistics][vertex pdf]
 <br>
 [arXiv:2010.14622][vertex preprint]
 
