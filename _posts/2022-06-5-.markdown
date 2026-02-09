@@ -2,6 +2,8 @@
 <br>
 *Runbing Zheng*
 <br>
+<span style="color: var(--link-color, #0969da);">SIAM Journal on Mathematics of Data Science (accepted for publication)</span>
+<br>
 [arXiv:2502.01947][shift preprint]
 
 [shift preprint]:https://arxiv.org/abs/2502.01947
