@@ -1,4 +1,5 @@
-I am a Rufus Isaacs Postdoctoral Fellow in the Department of Applied Mathematics and Statistics at Johns Hopkins University, advised by [Prof. Carey E. Priebe][Prof. Carey E. Priebe]. I obtained my PhD degree from the Department of Statistics at North Carolina State University, where I was fortunate to be advised by [Prof. Minh Tang][Prof. Minh Tang]. Previously, I graduated from Fudan University with a bachelor's degree in mathematics.
+I am a Postdoctoral Researcher at Stanford University School of Medicine, advised by [Prof. Zihuai He][Prof. Zihuai He]. Previously, I was a Rufus Isaacs Postdoctoral Fellow in the Department of Applied Mathematics and Statistics at Johns Hopkins University, advised by [Prof. Carey E. Priebe][Prof. Carey E. Priebe]. I obtained my PhD degree from the Department of Statistics at North Carolina State University, where I was fortunate to be advised by [Prof. Minh Tang][Prof. Minh Tang]. I graduated from Fudan University with a bachelor's degree in mathematics.
 
+[Prof. Zihuai He]: https://www.zihuai-he.com/home
 [Prof. Minh Tang]: https://minh-tang.github.io/
 [Prof. Carey E. Priebe]: https://www.ams.jhu.edu/~priebe/
