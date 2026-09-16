@@ -7,4 +7,4 @@
 [arXiv:2509.05221][tensor preprint]
 
 [tensor preprint]:https://arxiv.org/abs/2509.05221
-[jcgs link]:https://www.tandfonline.com/journals/ucgs20
+[jcgs link]:https://arxiv.org/abs/2509.05221
