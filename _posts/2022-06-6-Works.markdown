@@ -2,7 +2,7 @@
 <br>
 *Runshi Tang\*, Runbing Zheng\*, Anru R. Zhang, Carey E. Priebe* (\*=equal contribution)
 <br>
-[Journal of Computational and Graphical Statistics (in press)][jcgs link]
+[Journal of Computational and Graphical Statistics][jcgs link]
 <br>
 [arXiv:2509.05221][tensor preprint]
 
