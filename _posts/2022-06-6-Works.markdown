@@ -7,4 +7,4 @@
 [arXiv:2509.05221][tensor preprint]
 
 [tensor preprint]:https://arxiv.org/abs/2509.05221
-[jcgs link]:https://arxiv.org/abs/2509.05221
+[jcgs link]:https://doi.org/10.1080/10618600.2026.2737261
