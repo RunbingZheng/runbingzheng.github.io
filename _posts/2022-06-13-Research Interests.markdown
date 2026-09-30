@@ -1,5 +1,6 @@
 - Multi-source data integration
 - Distributed learning
-- Statistical inference on graphs
+- Random matrix theory and applications
 - High-dimensional data analysis
+- Statistical inference on graphs
 
