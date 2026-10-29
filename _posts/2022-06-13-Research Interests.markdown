@@ -1,4 +1,4 @@
-<p>My current research focuses on:</p>
+<p>My research focuses on:</p>
 <ul>
   <li>Statistical inference for high-dimensional data and theory of large random matrices</li>
   <li>Multi-source data integration and distributed learning</li>
