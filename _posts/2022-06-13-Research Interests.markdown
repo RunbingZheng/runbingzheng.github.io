@@ -1,6 +1,7 @@
-- Multi-source data integration
-- Distributed learning
-- Random matrix theory and applications
-- High-dimensional data analysis
+- Multi-source data integration and distributed learning
 - Statistical inference on graphs
+- Privacy-preserving synthetic data generation with applications to AI
+- High-dimensional data analysis
+- Random matrix theory and applications
+
 
